@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@config-plugins/react-native-ble-plx": "^6.0.0",
+    "@react-navigation/native": "^6.1.6",
     "eas-cli": "^3.11.0",
     "expo": "~48.0.15",
     "expo-dev-client": "~2.2.1",
